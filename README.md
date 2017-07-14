@@ -18,11 +18,11 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="/pics/pic1.jpg" alt="Los Angeles">
+      <img src="pics/pic1.jpg" alt="Los Angeles">
     </div>
 
     <div class="item">
-      <img src="/pics/pic2.jpg" alt="Chicago">
+      <img src="pics/pic2.jpg" alt="Chicago">
     </div>
 
     <div class="item">
