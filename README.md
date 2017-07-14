@@ -5,6 +5,8 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
   <p>Resize this responsive page to see the effect!</p> 
 </div>
 
+#Before Carousel
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -59,3 +61,5 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+#After Carousel
