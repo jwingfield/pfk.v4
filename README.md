@@ -19,14 +19,26 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
   <div class="carousel-inner">
     <div class="item active">
       <img src="pics/pic1.jpg" alt="Los Angeles">
+        <div class="carousel-caption">
+          <h3>On A Rug</h3>
+        <p>Visiting Nana &amp; Papa</p>
+      </div>
     </div>
 
     <div class="item">
       <img src="pics/pic2.jpg" alt="Chicago">
+        <div class="carousel-caption">
+          <h3>Shades</h3>
+        <p>LA is always so much fun!</p>
+      </div>
     </div>
 
     <div class="item">
       <img src="pics/pic3.jpg" alt="New York">
+        <div class="carousel-caption">
+          <h3>Cheeky</h3>
+        <p>Dude</p>
+      </div>
     </div>
   </div>
 
