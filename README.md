@@ -12,26 +12,26 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="pics/pic1.jpg" alt="Los Angeles">
+      <img src="images/new-inn-nov-15.jpg" alt="New Inn, Wilsden Gig">
         <div class="carousel-caption">
-          <h3>On A Rug</h3>
-        <p>Visiting Nana &amp; Papa</p>
+          <h3>The New Inn, Wilsden - November 2015</h3>
+        <p>After a bit of a break it was great to be back at the New Inn in Wilsden. A great crowd turned up to see Dave's final public appearance with us as Bass Player, along with a special guest Landlord on drums.</p>
       </div>
     </div>
 
     <div class="item">
-      <img src="pics/pic2.jpg" alt="Chicago">
+      <img src="images/ryshworth-20161210.jpg" alt="Ryshworth Charity Event">
         <div class="carousel-caption">
-          <h3>Shades</h3>
-        <p>LA is always so much fun!</p>
+          <h3>Ryshworth Club, Bingley, December 2016</h3>
+        <p>Complete with special guest bassist, Chris Gates, we played at a fundraiser following on from our Calais and Clowns Without Borders events earlier in the year. This time the funds raised went to provide much needed essentials for those sleeping on the streets of Calais.</p>
       </div>
     </div>
 
     <div class="item">
-      <img src="pics/pic3.jpg" alt="New York">
+      <img src="images/shipley-20160701.png" alt="Shipley Social Club">
         <div class="carousel-caption">
-          <h3>Cheeky</h3>
-        <p>Dude</p>
+          <h3>Shipley Social Club, July 2016</h3>
+        <p>Following on from our Calais Fundraiser earlier in the year, we felt it was important to raise more money to help send Clowns Without Borders to the refugee camps in France. There, they work hard to distract those in the camps from the appalling conditions around them.</p>
       </div>
     </div>
   </div>
