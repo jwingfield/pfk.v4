@@ -1,4 +1,5 @@
 {% include bootstrap.html %}
+{% include top-nav.html %}
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
